@@ -1,2 +1,2 @@
-# Mail_Project
+# Mall_Project
 Java商城项目
